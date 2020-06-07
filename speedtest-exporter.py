@@ -40,4 +40,4 @@ if __name__ == '__main__':
   start_http_server(9104) 
   # Generate some requests.
   while True:
-    process_request(1800)
+    process_request(3600)
